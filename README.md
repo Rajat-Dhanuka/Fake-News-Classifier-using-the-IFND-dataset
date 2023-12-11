@@ -21,6 +21,7 @@
 
 
 ## 📍 Overview
+
 Project 5 details:
 The project involves both traditional machine learning (Multinomial Naive Bayes, Passive Aggressive Classifier) and deep learning (LSTM) approaches for fake news classification.
 The code demonstrates the preprocessing steps, TF-IDF vectorization, Word2Vec model training, and the training of different classifiers.
@@ -32,6 +33,7 @@ The project leverages the power of DistilBERT for fake news classification.
 Visualizations and error analysis provide insights into the model's performance and potential areas for improvement.
 The saved model can be easily shared and used for making predictions on new data.
 The code demonstrates an end-to-end pipeline, from data exploration to model training, evaluation, and deployment
+
 ---
 
 
